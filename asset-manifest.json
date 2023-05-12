@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TeachersDay2023/static/css/main.15d7e97a.css",
-    "main.js": "/TeachersDay2023/static/js/main.712a1475.js",
+    "main.js": "/TeachersDay2023/static/js/main.79dd20a3.js",
     "static/media/bgm2.mp3": "/TeachersDay2023/static/media/bgm2.cf4e8bf6eb2149b46c6f.mp3",
     "static/media/carnation_hanataba.png": "/TeachersDay2023/static/media/carnation_hanataba.f815d38e7f87375e67c4.png",
     "static/media/audio-on.svg": "/TeachersDay2023/static/media/audio-on.5ea7b82d3c7954d7d806c073254ffcfa.svg",
     "index.html": "/TeachersDay2023/index.html",
     "static/media/audio-off.svg": "/TeachersDay2023/static/media/audio-off.99b27f4a927224d0960a38ecf8d028d8.svg",
     "main.15d7e97a.css.map": "/TeachersDay2023/static/css/main.15d7e97a.css.map",
-    "main.712a1475.js.map": "/TeachersDay2023/static/js/main.712a1475.js.map"
+    "main.79dd20a3.js.map": "/TeachersDay2023/static/js/main.79dd20a3.js.map"
   },
   "entrypoints": [
     "static/css/main.15d7e97a.css",
-    "static/js/main.712a1475.js"
+    "static/js/main.79dd20a3.js"
   ]
 }
